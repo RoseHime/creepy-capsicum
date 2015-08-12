@@ -2,3 +2,6 @@
 Learn about Git
 
 Kenichi Matsuda Join the GIT
+O_O
+
+This is much better
