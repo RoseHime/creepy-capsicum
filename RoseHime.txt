@@ -1,0 +1,4 @@
+# creepy-capsicum
+Learn about Git
+
+Kenichi Matsuda Join the GIT
